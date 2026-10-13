@@ -1,2 +1,2 @@
-# Gr-fico-Interativo---Curva-3D
+# Grafico-Interativo-Curva3D
 Curva no Espaço e Reta Tangente
